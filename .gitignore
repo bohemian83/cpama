@@ -1,0 +1,8 @@
+# Ignore all files in the repository
+*
+!*/
+!*.c
+!*.h
+!?akefile
+!.gitignore
+!*.md
