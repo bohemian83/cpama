@@ -9,7 +9,6 @@ int main(int argc, char *argv[]) {
   scanf("%d", &i);
 
   printf("The reversal is: ");
-
   do {
     printf("%d", i % 10);
     i = i / 10;
